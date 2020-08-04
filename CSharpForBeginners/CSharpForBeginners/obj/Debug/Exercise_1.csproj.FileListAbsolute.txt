@@ -1,6 +1,0 @@
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\bin\Debug\CSharpForBeginners.exe.config
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\bin\Debug\CSharpForBeginners.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\bin\Debug\CSharpForBeginners.pdb
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\obj\Debug\Exercise_1.csprojAssemblyReference.cache
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\obj\Debug\CSharpForBeginners.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\CSharpForBeginners\obj\Debug\CSharpForBeginners.pdb

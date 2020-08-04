@@ -1,6 +1,0 @@
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\bin\Debug\Exercise 3.exe.config
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\bin\Debug\Exercise 3.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\bin\Debug\Exercise 3.pdb
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\obj\Debug\Exercise 3.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\obj\Debug\Exercise 3.pdb
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 3\obj\Debug\Exercise 3.csprojAssemblyReference.cache

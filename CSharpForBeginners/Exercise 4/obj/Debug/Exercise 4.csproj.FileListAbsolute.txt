@@ -1,5 +1,0 @@
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 4\bin\Debug\Exercise 4.exe.config
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 4\bin\Debug\Exercise 4.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 4\bin\Debug\Exercise 4.pdb
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 4\obj\Debug\Exercise 4.exe
-C:\Users\sgambar\source\repos\C# Training\CSharpForBeginners\Exercise 4\obj\Debug\Exercise 4.pdb
