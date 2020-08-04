@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 2", "AllExercises\Exercise 2.csproj", "{B0805E35-AC26-4F85-A006-E1933E004A26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_Exercise 2", "AllExercises\Conditional_Exercise 2.csproj", "{B0805E35-AC26-4F85-A006-E1933E004A26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1", "Exercise1-1\Exercise 1.csproj", "{EA7A430F-2079-4F79-B7F4-3AD51247B278}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_Exercise 1", "Exercise1-1\Conditional_Exercise 1.csproj", "{EA7A430F-2079-4F79-B7F4-3AD51247B278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3", "Exercise 3\Exercise 3.csproj", "{86D167E0-9D58-46B6-8F77-F0D68DD5A3E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_Exercise 3", "Exercise 3\Conditional_Exercise 3.csproj", "{86D167E0-9D58-46B6-8F77-F0D68DD5A3E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4", "Exercise 4\Exercise 4.csproj", "{36973B35-0438-4EF9-87D5-BA9EBA8A2E0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_Exercise 4", "Exercise 4\Conditional_Exercise 4.csproj", "{36973B35-0438-4EF9-87D5-BA9EBA8A2E0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

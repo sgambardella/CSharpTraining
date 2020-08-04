@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Exercise_3
+namespace Conditional_Exercise_3
 {
-    class Ex_3_Program
+    class Conditional_Ex_3_Program
     {
         static void Main(string[] args)
         {

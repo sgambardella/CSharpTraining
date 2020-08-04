@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Exercise_4
+namespace Conditional_Exercise_4
 {
-    class Ex_4_Program
+    class Conditional_Ex_4_Program
     {
         static void Main(string[] args)
         {
@@ -21,7 +21,7 @@ namespace Exercise_4
                 var demeritPoints = (carSpeed - speedLimit) / demeritBlocks;
 
                 if (demeritPoints >= 10)
-                    Console.WriteLine("Your licsense is suspended");
+                    Console.WriteLine("Your licsense is suspended!!!!!!!!!!!");
 
                 else
                     Console.WriteLine("You have " + demeritPoints + " demerits");

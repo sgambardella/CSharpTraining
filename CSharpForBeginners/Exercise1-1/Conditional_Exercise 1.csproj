@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B0805E35-AC26-4F85-A006-E1933E004A26}</ProjectGuid>
+    <ProjectGuid>{EA7A430F-2079-4F79-B7F4-3AD51247B278}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AllExercises</RootNamespace>
-    <AssemblyName>AllExercises</AssemblyName>
+    <RootNamespace>Exercise1_1</RootNamespace>
+    <AssemblyName>Exercise1-1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ex_2_Program.cs" />
+    <Compile Include="Conditional_Ex_1_Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
