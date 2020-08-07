@@ -4,6 +4,7 @@
 namespace Udemy_CSharp_Training_Beginner
 {
     class Conditional_Exercise_2_Program
+         //Write a program which takes two numbers from the console and displays the maximum of the two.
     {
         static void Main(string[] args)
         {

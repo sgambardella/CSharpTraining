@@ -3,6 +3,7 @@
 namespace Conditional_Exercise_3
 {
     class Conditional_Exercise_3_Program
+         //Write a program and ask the user to enter the width and height of an image.Then tell if the image is landscape or portrait
     {
         static void Main(string[] args)
         {

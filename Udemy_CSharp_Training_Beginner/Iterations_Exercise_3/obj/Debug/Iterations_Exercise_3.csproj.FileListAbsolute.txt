@@ -1,0 +1,6 @@
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\obj\Debug\Iterations_Exercise_3.csprojAssemblyReference.cache
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\bin\Debug\Iterations_Exercise_3.exe.config
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\bin\Debug\Iterations_Exercise_3.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\bin\Debug\Iterations_Exercise_3.pdb
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\obj\Debug\Iterations_Exercise_3.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Iterations_Exercise_3\obj\Debug\Iterations_Exercise_3.pdb
