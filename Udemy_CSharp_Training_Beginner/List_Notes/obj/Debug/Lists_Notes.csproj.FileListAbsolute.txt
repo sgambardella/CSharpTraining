@@ -1,0 +1,5 @@
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\List_Notes\bin\Debug\List_Notes.exe.config
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\List_Notes\bin\Debug\List_Notes.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\List_Notes\bin\Debug\List_Notes.pdb
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\List_Notes\obj\Debug\List_Notes.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\List_Notes\obj\Debug\List_Notes.pdb

@@ -1,0 +1,6 @@
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\bin\Debug\Arrays_Lists_Exercise_1.exe.config
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\bin\Debug\Arrays_Lists_Exercise_1.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\bin\Debug\Arrays_Lists_Exercise_1.pdb
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\obj\Debug\Arrays_Lists_Exercise_1.csprojAssemblyReference.cache
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\obj\Debug\Arrays_Lists_Exercise_1.exe
+C:\Users\sgambar\Documents\GitHub\CSharpTraining\Udemy_CSharp_Training_Beginner\Arrays_Lists_Exercise_1\obj\Debug\Arrays_Lists_Exercise_1.pdb
